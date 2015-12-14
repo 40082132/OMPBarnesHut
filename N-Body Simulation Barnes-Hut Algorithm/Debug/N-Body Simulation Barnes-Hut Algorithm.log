@@ -1,0 +1,10 @@
+﻿Build started 07/12/2015 11:14:26.
+     1>Project "H:\Visual Studio 2013\Projects\OMPBarnesHut\N-Body Simulation Barnes-Hut Algorithm\N-Body Simulation Barnes-Hut Algorithm.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (N-Body Simulation Barnes-Hut Algorithm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         N-Body Simulation Barnes-Hut Algorithm.vcxproj -> H:\Visual Studio 2013\Projects\OMPBarnesHut\Debug\N-Body Simulation Barnes-Hut AlgorithmOMP.exe
+     1>Done Building Project "H:\Visual Studio 2013\Projects\OMPBarnesHut\N-Body Simulation Barnes-Hut Algorithm\N-Body Simulation Barnes-Hut Algorithm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
